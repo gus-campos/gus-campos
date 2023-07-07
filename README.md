@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Gustavo</h1>
-<h3 align="center">E adoro procurar e achar soluções pra problemas</h3>
+<h3 align="center">E adoro encontrar soluções pra problemas</h3>
 
 - 🌱 Estou estudando **Machine Learning e Data Science**
 
