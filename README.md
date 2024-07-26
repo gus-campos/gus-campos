@@ -9,7 +9,7 @@
 
 <h3 align="left">Veja meus projetos publicados:</h3>
 
-- <h4 align="left"> Dopagens (github.com/gus-campos/dopagens) </h4>
+- <h4 align="left"> [Dopagens](github.com/gus-campos/dopagens) </h4>
 
 Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs.
 
