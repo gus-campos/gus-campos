@@ -9,11 +9,15 @@
 
 <h3 align="left">Veja meus projetos publicados:</h3>
 
-- <h4 align="left"> Dopagens[1] </h4>
+- <h4 align="left"> Dopagens </h4>
+
+[Projeto](https://github.com/gus-campos/dopagens)
 
 Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs.
 
-- <h4 align="left">[MovieLen-AED[2] </h4>
+- <h4 align="left"> MovieLen-AED </h4>
+
+[Projeto](https://github.com/gus-campos/movielens-EDA)
 
 Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras.
 
@@ -21,9 +25,6 @@ Análise exploratória de dados sobre o dataset de avaliações de filmes do sit
 <p align="left">
 <a href="https://www.linkedin.com/in/gus-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gus-campos/" height="30" width="40" /></a>
 </p>
-
-[1]: https://github.com/gus-campos/dopagens
-[2]: https://github.com/gus-campos/movielens-EDA
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
