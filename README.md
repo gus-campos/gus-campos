@@ -13,7 +13,7 @@
 
 Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs.
 
-- <h4 align="left"> MovieLen-AED (https://github.com/gus-campos/movielens-EDA) </h4>
+- <h4 align="left"> [MovieLen-AED](https://github.com/gus-campos/movielens-EDA) </h4>
 
 Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras.
 
