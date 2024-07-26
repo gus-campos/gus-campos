@@ -7,6 +7,11 @@
 - 📊 Uso auxílio de análise e vizualização de **Dados** para resolver alguns problemas
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
+<h3 align="left">Veja meus projetos publicados:</h3>
+
+- Dopagens: programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos processos.
+-  Movielens AED: Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões do público sobre as obras.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gus-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gus-campos/" height="30" width="40" /></a>
