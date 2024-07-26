@@ -9,10 +9,13 @@
 
 <h3 align="left">Veja meus projetos publicados:</h3>
 
-- <h4 align="left">Dopagens:</h3>
+- <h4 align="left">Dopagens</h4>
 
-Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos processos.
--  Movielens AED: Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões do público sobre as obras.
+Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs.
+
+- <h4 align="left">Movielens AED</h4>
+
+Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões do público sobre as obras.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
