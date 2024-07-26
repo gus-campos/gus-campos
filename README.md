@@ -11,15 +11,13 @@
 
 - <h4 align="left"> Dopagens </h4>
 
-[Projeto](https://github.com/gus-campos/dopagens)
 
-Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs.
+
+Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs. Acesse o [projeto](https://github.com/gus-campos/dopagens).
 
 - <h4 align="left"> MovieLen-AED </h4>
 
-[Projeto](https://github.com/gus-campos/movielens-EDA)
-
-Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras.
+Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras. Acesse o [projeto](https://github.com/gus-campos/movielens-EDA).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
