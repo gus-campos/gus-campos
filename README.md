@@ -1,8 +1,10 @@
 <h1 align="center">Olá 👋, eu sou o Gustavo!</h1>
 <h3 align="center">E eu adoro trabalhar com solução de problemas</h3>
 
-- 🌱 Atualmente estou estudando **Machine Learning e Data Science**
-
+- 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
+- 🌱 Atualmente estou estudando **Programação Backend**
+- 🐍 Tenho mais de 900 horas de experiência programando em **Python**
+- 📊 Gosto do auxílio de análise e vizualização de **Dados** para resolver alguns problemas
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
