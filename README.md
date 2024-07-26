@@ -9,7 +9,7 @@
 
 <h3 align="left">Veja meus projetos publicados:</h3>
 
-- <h4 align="left"> [Dopagens](https://github.com/gus-campos/dopagens) </h4>
+- <h4 align="left"> [Dopagens][https://github.com/gus-campos/dopagens] </h4>
 
 Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs.
 
@@ -21,6 +21,10 @@ Análise exploratória de dados sobre o dataset de avaliações de filmes do sit
 <p align="left">
 <a href="https://www.linkedin.com/in/gus-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gus-campos/" height="30" width="40" /></a>
 </p>
+
+[1]: https://stackoverflow.com/users/214446/mb21
+[2]: https://github.com/hadley/testthat
+[3]: http://r-pkgs.had.co.nz/tests.html
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
