@@ -4,7 +4,7 @@
 - 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
 - 🌱 Atualmente estou estudando **Programação Backend**
 - 🐍 Tenho mais de 900 horas de experiência programando em **Python**
-- 📊 Uso auxílio de análise e vizualização de **Dados** para resolver alguns problemas
+- 📊 Tenho como ferramentas a análise e a vizualização de **Dados** para resolver problemas
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
 <h3 align="left">Veja meus projetos publicados:</h3>
