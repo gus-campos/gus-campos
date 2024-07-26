@@ -15,7 +15,7 @@ Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesqui
 
 - <h4 align="left">Movielens AED</h4>
 
-Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões do público sobre as obras.
+Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
