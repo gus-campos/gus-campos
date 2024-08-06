@@ -7,7 +7,7 @@
 - 📊 Tenho como ferramentas a análise e a vizualização de **Dados** para resolver problemas
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
-<h1 align="left">Veja meus projetos publicados:</h3>
+<h1 align="left">Veja meus projetos:</h3>
 
 - <h2 align="left"> Dopagens </h4>
 
