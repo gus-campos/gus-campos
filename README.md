@@ -9,19 +9,19 @@
 
 <h1 align="left">Veja meus projetos publicados:</h3>
 
-- <h2 align="left"> Dopagens </h4>
+- <h2 align="left"> Biblioteca: Dopagens </h4>
 
-Programas em Python que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs. Acesse o [projeto](https://github.com/gus-campos/dopagens).
+Programas em **Python** que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs. Acesse o [projeto](https://github.com/gus-campos/dopagens).
 
-- <h2 align="left"> MovieLens-AED </h4>
+- <h2 align="left"> AED: MovieLens </h4>
 
-Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, explorando a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras. Acesse o [projeto](https://github.com/gus-campos/movielens-EDA).
+Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, utilizando **Python, Pandas, Seaborn e Matplotlib no Jupyter Lab**, onde foi explorada a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras. Para mais detalhes acesse o [projeto](https://github.com/gus-campos/movielens-EDA).
 
-- <h2 align="left"> Survive Between Stars </h4>
+- <h2 align="left"> Jogo: Survive Between Stars </h4>
 
-Jogo space shooter que idelizei, dirigi e programei em C#/Unity, com música de minha autoria, e assets adapatados por mim, como o fundo infinito criado a partir de imagens de satélite da NASA e o som do motor criado a partir de gravações de ventos árticos. Sobreviva o máximo que  puder, contra as naves que o perseguem entre as estrelas. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars).
+Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim, como o fundo infinito criado a partir de imagens de satélite da NASA e o som do motor criado a partir de gravações de ventos árticos. Sobreviva o máximo que  puder, contra as naves que o perseguem entre as estrelas. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação. Para as edições multimedia foram utilizados os softwares: Audacity, GIMP e LMMS. 
 
-<h2 align="left">Connect with me:</h3>
+<h2 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gus-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gus-campos/" height="30" width="40" /></a>
 </p>
