@@ -19,7 +19,7 @@ Análise exploratória de dados sobre o dataset de avaliações de filmes do sit
 
 - <h2 align="left"> Jogo: Survive Between Stars </h4>
 
-Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim, como o fundo infinito criado a partir de imagens de satélite da NASA e o som do motor criado a partir de gravações de ventos árticos. Sobreviva o máximo que  puder, contra as naves que o perseguem entre as estrelas. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação. Para as edições multimedia foram utilizados os softwares: Audacity, GIMP e LMMS. 
+Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
 
 <h2 align="left">Conecte-se comigo:</h3>
 <p align="left">
