@@ -2,7 +2,7 @@
 <h3 align="center">E eu adoro trabalhar com solução de problemas</h3>
 
 - 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
-- 🌱 Atualmente estou estudando **Programação Backend**
+- 🌱 Atualmente estou estudando **Desenvolvimento Backend**
 - 🐍 Tenho mais de 900 horas de experiência programando em **Python**
 - 🖥️ Além de Python, conheço C#, Javascript, C/C++
 - 📊 Tenho base também em análise e vizualização de **Dados**, que me auxiliam na resolução de problemas
