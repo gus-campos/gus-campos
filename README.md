@@ -22,6 +22,10 @@ Análise exploratória de dados sobre o dataset de avaliações de filmes do sit
 
 Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
 
+- <h2 align="left"> Jogo: Tanks War </h4>
+
+Um jogo básico de guerra de tanques feito em JavaScript, utilizando a biblioteca gráfica THREE.js, na disciplina de Computação Gráfica na UFJF. Acesse o [repositório](https://github.com/gus-campos/tanks-war.github.io), e jogue-o na sua [github-page](https://gus-campos.github.io/tanks-war.github.io/). 
+
 <h2 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gus-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gus-campos/" height="30" width="40" /></a>
