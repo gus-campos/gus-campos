@@ -24,7 +24,7 @@ Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música
 
 - <h2 align="left"> Jogo: Tanks War </h4>
 
-Um jogo básico de guerra de tanques com três níveis, feito em JavaScript utilizando a biblioteca gráfica THREE.js, durante a disciplina de Computação Gráfica na UFJF. Acesse o [repositório](https://github.com/gus-campos/tanks-war.github.io) (com instruções), e jogue sua versão mobile na sua [github-page](https://gus-campos.github.io/tanks-war.github.io/T#/appMobile.html). 
+Um jogo básico de guerra de tanques com três níveis, feito em JavaScript utilizando a biblioteca gráfica THREE.js, durante a disciplina de Computação Gráfica na UFJF. Acesse o [repositório](https://github.com/gus-campos/tanks-war.github.io) (com instruções), e jogue sua versão mobile na sua [github-page](https://gus-campos.github.io/tanks-war.github.io/T3/appMobile.html). 
 
 <h2 align="left">Conecte-se comigo:</h3>
 <p align="left">
