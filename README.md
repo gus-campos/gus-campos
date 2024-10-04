@@ -14,6 +14,10 @@
 
 Programas em **Python** que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs. Acesse o [projeto](https://github.com/gus-campos/dopagens).
 
+- <h2 align="left"> Currículos </h4>
+
+Programa básico em Python que usa leitura de arquivos de dados e orientação à objetos para representar disciplinas/cursos e currículos, de forma que eu possa analisar a melhor sequência de cursos a serem feitas na minha graduação. Acesse aqui o [repositório](https://github.com/gus-campos/curriculos). 
+
 - <h2 align="left"> AED: MovieLens </h4>
 
 Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, utilizando **Python, Pandas, Seaborn e Matplotlib no Jupyter Lab**, onde foi explorada a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras. Para mais detalhes acesse o [projeto](https://github.com/gus-campos/movielens-EDA).
