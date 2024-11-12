@@ -14,6 +14,10 @@
 
 Programas em **Python** que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs. Acesse o [projeto](https://github.com/gus-campos/dopagens).
 
+- <h2 align="left"> Jogo em Unity com C#: Survive Between Stars </h4>
+
+Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
+
 - <h2 align="left"> Jogo 3D em JavaScript: Tanks War </h4>
 
 Um jogo básico de guerra de tanques com três níveis, feito em JavaScript utilizando a biblioteca gráfica THREE.js, durante a disciplina de Computação Gráfica na UFJF. Acesse o [repositório](https://github.com/gus-campos/tanks-war.github.io) (com instruções), e jogue sua versão mobile na sua [github-page](https://gus-campos.github.io/tanks-war.github.io/T3/appMobile.html). 
@@ -29,10 +33,6 @@ Programa básico em Python que usa leitura de arquivos de dados e orientação �
 - <h2 align="left"> Análise Exploratória de Dados: Dataset MovieLens </h4>
 
 Análise exploratória de dados sobre o dataset de avaliações de filmes do site MovieLens, utilizando **Python, Pandas, Seaborn e Matplotlib no Jupyter Lab**, onde foi explorada a natureza das avaliações, as preferências do público, e a divergência de opiniões da audiência sobre as obras. Para mais detalhes acesse o [projeto](https://github.com/gus-campos/movielens-EDA).
-
-- <h2 align="left"> Jogo em Unity: Survive Between Stars </h4>
-
-Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
 
 <h2 align="left">Conecte-se comigo:</h3>
 <p align="left">
