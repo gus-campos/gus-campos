@@ -26,7 +26,7 @@ Um jogo básico de guerra de tanques com três níveis, feito em JavaScript util
 
 Jogos de tabuleiro implementados utilizando JS, com React para o front-end e com a biblioteca boardgames.io no back-end. Usando a biblioteca de bordgames, também foi implementada um jogador automático, no qual a partir de uma listagem de jogadas possíveis, a biblioteca dispõe de métodos como Random e MCTS para fazer escolher entre os movimentos disponíveis. Acesse o [projeto](https://github.com/gus-campos/boardgames).
 
-- <h2 align="left"> Currículos </h4>
+- <h2 align="left"> Simulador de currículos da minha graduação </h4>
 
 Programa básico em Python que usa leitura de arquivos de dados e orientação à objetos para representar disciplinas/cursos e currículos, de forma que eu possa analisar a melhor sequência de cursos a serem feitas na minha graduação. Acesse aqui o [repositório](https://github.com/gus-campos/curriculos). 
 
