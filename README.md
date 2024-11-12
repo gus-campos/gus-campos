@@ -12,7 +12,7 @@
 
 - <h2 align="left"> Biblioteca: Dopagens </h4>
 
-Programas em **Python** que escrevi ao longo de mais de 1 ano, e uso na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs. Acesse o [projeto](https://github.com/gus-campos/dopagens).
+Programas em **Python** que escrevi ao longo de mais de 1 ano, e usei extensamente na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs. Acesse o [projeto](https://github.com/gus-campos/dopagens).
 
 - <h2 align="left"> Jogo em Unity com C#: Survive Between Stars </h4>
 
