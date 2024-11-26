@@ -13,7 +13,7 @@
 
 - <h2 align="left">WordSearch </h2>
 
-Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades de palavras arbitrárias. As palavras podem ser horizontais, verticais ou diagonais, em ordem direta ou inversa. Para gerar caça-palavras diferentes, usa aleatoriedade, com tratamento de exceções e avisa ao usuário quando não é possível gerar um caça-palavras nos parâmetros informados por ele. Acesse [aqui](https://github.com/gus-campos/word-search/).
+Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades de palavras arbitrárias. As palavras podem ser horizontais, verticais ou diagonais, em ordem direta ou inversa. Para gerar caça-palavras diferentes, usa aleatoriedade, e usando tratamento de exceções avisa ao usuário quando não é possível gerar um caça-palavras nos parâmetros informados pelo usuário. Acesse [aqui](https://github.com/gus-campos/word-search/).
 
 - <h2 align="left">Jogo de tabuleiro "Nhac Nhac" em JS e React </h4>
 
