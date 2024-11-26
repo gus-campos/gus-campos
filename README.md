@@ -3,8 +3,8 @@
 
 - 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
 - 🌱 Estudo e pratico **Desenvolvimento Backend** há dois anos
-- 🖥️ Tenho proficiência nas linguagens **Python**, **JavaScript** e **C#**
-- 💻 Tenho experiência com C++, Java, TypeScript, HTML, CSS e React
+- 🖥️ Tenho proficiência nas linguagens **Python**, **JavaScript**, TypeScript e **C#**
+- 💻 Tenho experiência com C++, Java, HTML, CSS e React
 - 📊 Tenho base também em análise e vizualização de **Dados**, que me auxiliam na resolução de problemas
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
