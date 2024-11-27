@@ -17,7 +17,7 @@ Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades 
 
 - <h2 align="left">Jogo de tabuleiro Nhac Nhac™ em JS e React </h4>
 
-Jogos de tabuleiro implementado utilizando JS, com React para o front-end e com a biblioteca boardgames.io no back-end. Usando a biblioteca de bordgames, também foi implementada um jogador automático, no qual a partir de uma listagem de jogadas possíveis, a biblioteca dispõe de métodos como Random e MCTS para fazer escolher entre os movimentos disponíveis. Acesse o [projeto](https://github.com/gus-campos/boardgames).
+Jogos de tabuleiro implementado utilizando JS, com React para o front-end e com a biblioteca boardgames.io no back-end. Usando a biblioteca de bordgames, também foi implementada um jogador automático, no qual a partir de uma listagem de jogadas possíveis, a biblioteca dispõe de métodos como Random e MCTS para fazer escolher entre os movimentos disponíveis. Jogue neste [link](https://gus-campos.github.io/nhac-nhac/). Acesse o [projeto](https://github.com/gus-campos/boardgames).
 
 - <h2 align="left">Jogo em Unity com C#: Survive Between Stars </h4>
 
