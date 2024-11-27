@@ -15,7 +15,7 @@
 
 Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades de palavras arbitrárias, usando orientação a objetos. As palavras podem ser horizontais, verticais ou diagonais, em ordem direta ou inversa. Para gerar caça-palavras diferentes, usa aleatoriedade, e usando tratamento de exceções avisa ao usuário quando não é possível gerar um caça-palavras nos parâmetros informados pelo usuário. Acesse [aqui](https://github.com/gus-campos/word-search/).
 
-- <h2 align="left">Jogo de tabuleiro Nhac Nhac™ em JS e React </h4>
+- <h2 align="left">Clone do jogo de tabuleiro Nhac Nhac™ em JS e React </h4>
 
 Jogos de tabuleiro implementado utilizando JS, com React para o front-end e com a biblioteca boardgames.io no back-end. Usando a biblioteca de bordgames, também foi implementada um jogador automático, no qual a partir de uma listagem de jogadas possíveis, a biblioteca dispõe de métodos como Random e MCTS para fazer escolher entre os movimentos disponíveis. Jogue neste [link](https://gus-campos.github.io/nhac-nhac/). Acesse o [projeto](https://github.com/gus-campos/boardgames).
 
