@@ -11,7 +11,7 @@
 <h1 align="left">Veja meus projetos publicados:</h3>
 
 
-- <h2 align="left">Gerador de Caça-Palavras</h2>
+- <h2 align="left">Gerador de Caça-Palavras em C#</h2>
 
 Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades de palavras arbitrárias, usando orientação a objetos. As palavras podem ser horizontais, verticais ou diagonais, em ordem direta ou inversa. Diversos conceito de programação são aplicados aqui, de acordo com a descrição do projeto [aqui](https://github.com/gus-campos/word-search/), junto de diagramas que ilustram a estrutura do programa.
 
