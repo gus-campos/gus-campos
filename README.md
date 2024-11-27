@@ -17,7 +17,7 @@ Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades 
 
 - <h2 align="left">Clone do jogo de tabuleiro Nhac Nhac™ em JS e React </h4>
 
-Jogo de tabuleiro implementado utilizando JS, e a biblioteca boardgames.io, além de React para o front-end. Após ver as instruções na página do [projeto](https://github.com/gus-campos/boardgames), você pode jogá-lo neste [link](https://gus-campos.github.io/nhac-nhac/).
+Jogo de tabuleiro implementado utilizando JS e a biblioteca boardgames.io, e com React para o front-end. Após ver as instruções na página do [projeto](https://github.com/gus-campos/boardgames), você pode jogá-lo neste [link](https://gus-campos.github.io/nhac-nhac/).
 
 - <h2 align="left">Jogo 3D em JavaScript: Tanks War </h4>
 
