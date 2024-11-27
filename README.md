@@ -25,7 +25,7 @@ Um jogo básico de guerra de tanques com três níveis, feito em JavaScript util
 
 - <h2 align="left">Jogo em Unity com C#: Survive Between Stars </h4>
 
-Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador no PC, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
+Jogo space shooter que idelizei, e criei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador no PC, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
 
 - <h2 align="left">Biblioteca: Dopagens </h4>
 
