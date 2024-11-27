@@ -13,11 +13,11 @@
 
 - <h2 align="left">WordSearch </h2>
 
-Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades de palavras arbitrárias, usando orientação a objetos. As palavras podem ser horizontais, verticais ou diagonais, em ordem direta ou inversa. Para gerar caça-palavras diferentes, usa aleatoriedade, e usando tratamento de exceções avisa ao usuário quando não é possível gerar um caça-palavras nos parâmetros informados pelo usuário. Acesse [aqui](https://github.com/gus-campos/word-search/).
+Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades de palavras arbitrárias, usando orientação a objetos. As palavras podem ser horizontais, verticais ou diagonais, em ordem direta ou inversa. Diversos conceito de programação são aplicados aqui, de acordo com a descrição do projeto [aqui](https://github.com/gus-campos/word-search/), junto de diagramas que ilustram a estrutura do programa.
 
 - <h2 align="left">Clone do jogo de tabuleiro Nhac Nhac™ em JS e React </h4>
 
-Jogos de tabuleiro implementado utilizando JS, com React para o front-end e com a biblioteca boardgames.io no back-end. Usando a biblioteca de bordgames, também foi implementada um jogador automático, no qual a partir de uma listagem de jogadas possíveis, a biblioteca dispõe de métodos como Random e MCTS para fazer escolher entre os movimentos disponíveis. Após ver as instruções na página do [projeto](https://github.com/gus-campos/boardgames), você pode jogá-lo neste [link](https://gus-campos.github.io/nhac-nhac/).
+Jogo de tabuleiro implementado utilizando JS, com React para o front-end e com a biblioteca boardgames.io no back-end. Após ver as instruções na página do [projeto](https://github.com/gus-campos/boardgames), você pode jogá-lo neste [link](https://gus-campos.github.io/nhac-nhac/).
 
 - <h2 align="left">Jogo 3D em JavaScript: Tanks War </h4>
 
@@ -29,7 +29,7 @@ Jogo space shooter que idelizei, e criei em **C#/Unity**, com música de minha a
 
 - <h2 align="left">Biblioteca: Dopagens </h4>
 
-Programas em **Python** que escrevi ao longo de mais de 1 ano, e usei extensamente na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível no ReadTheDocs. Acesse o [projeto](https://github.com/gus-campos/dopagens).
+Programas em **Python** que escrevi ao longo de mais de 1 ano, e usei extensamente na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível na descrição do projeto. Acesse o [projeto](https://github.com/gus-campos/dopagens).
 
 - <h2 align="left">Simulador de currículos da minha graduação </h4>
 
