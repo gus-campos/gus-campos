@@ -19,13 +19,13 @@ Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades 
 
 Jogos de tabuleiro implementado utilizando JS, com React para o front-end e com a biblioteca boardgames.io no back-end. Usando a biblioteca de bordgames, também foi implementada um jogador automático, no qual a partir de uma listagem de jogadas possíveis, a biblioteca dispõe de métodos como Random e MCTS para fazer escolher entre os movimentos disponíveis. Após ver as instruções na página do [projeto](https://github.com/gus-campos/boardgames), você pode jogá-lo neste [link](https://gus-campos.github.io/nhac-nhac/).
 
-- <h2 align="left">Jogo em Unity com C#: Survive Between Stars </h4>
-
-Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador no PC, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
-
 - <h2 align="left">Jogo 3D em JavaScript: Tanks War </h4>
 
 Um jogo básico de guerra de tanques com três níveis, feito em JavaScript utilizando a biblioteca gráfica THREE.js, durante a disciplina de Computação Gráfica na UFJF. Acesse o [repositório](https://github.com/gus-campos/tanks-war.github.io) (com instruções), e jogue sua versão mobile na sua [github-page](https://gus-campos.github.io/tanks-war.github.io/T3/appMobile.html). 
+
+- <h2 align="left">Jogo em Unity com C#: Survive Between Stars </h4>
+
+Jogo space shooter que idelizei, dirigi e programei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador no PC, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
 
 - <h2 align="left">Biblioteca: Dopagens </h4>
 
