@@ -21,7 +21,7 @@ Jogo de tabuleiro implementado utilizando JS e a biblioteca boardgames.io, e com
 
 - <h2 align="left">Jogo 3D em JavaScript: Tanks War </h4>
 
-Um jogo básico de guerra de tanques com três níveis, feito em JavaScript utilizando a biblioteca gráfica THREE.js, durante a disciplina de Computação Gráfica na UFJF. Acesse o [repositório](https://github.com/gus-campos/tanks-war.github.io) (com instruções), e jogue sua versão mobile na sua [github-page](https://gus-campos.github.io/tanks-war.github.io/src/appMobile.html). 
+Um jogo básico de guerra de tanques com três níveis, feito em JavaScript utilizando a biblioteca gráfica THREE.js, durante a disciplina de Computação Gráfica na UFJF. Acesse o [repositório](https://github.com/gus-campos/tanks-war.github.io), e jogue em mobile ou PC (com WASD + SPACE) pela sua [github-page](https://gus-campos.github.io/tanks-war.github.io/src/appMobile.html). 
 
 - <h2 align="left">Jogo em Unity com C#: Survive Between Stars </h4>
 
