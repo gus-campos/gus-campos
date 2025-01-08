@@ -3,13 +3,12 @@
 
 - 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
 - 🌱 Estudo e pratico **Desenvolvimento Backend** há dois anos
-- 🖥️ Tenho proficiência nas linguagens **C#**, **JavaScript**, **TypeScript** e **Python**
+- 🖥️ Tenho proficiência nas linguagens **C#**, **TypeScript** e **Python**
 - 💻 Tenho experiência com C++, Java, HTML, CSS e React
 - 📊 Tenho base também em análise e vizualização de **Dados**, que me auxiliam na resolução de problemas
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
 <h1 align="left">Veja meus projetos publicados:</h3>
-
 
 - <h2 align="left">Caça-Palavras Interativo</h2>
 
@@ -33,7 +32,7 @@ Programas em **Python** que escrevi ao longo de mais de 1 ano, e usei extensamen
 
 - <h2 align="left">Simulador de currículos da minha graduação </h4>
 
-Programa básico em Python que usa leitura de arquivos de dados e orientação à objetos para representar disciplinas/cursos e currículos, de forma que eu possa analisar a melhor sequência de cursos a serem feitas na minha graduação. Acesse aqui o [repositório](https://github.com/gus-campos/curriculos). 
+Script básico em Python que usa leitura de arquivos de dados e orientação à objetos para representar disciplinas/cursos e currículos, de forma que eu possa analisar a melhor sequência de cursos a serem feitas na minha graduação. Acesse aqui o [repositório](https://github.com/gus-campos/curriculos). 
 
 - <h2 align="left">Análise Exploratória de Dados: Dataset MovieLens </h4>
 
