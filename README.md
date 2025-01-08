@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Gustavo!</h1>
+<h1 align="center">Olá, eu sou o Gustavo!</h1>
 <h3 align="center">E eu adoro trabalhar com solução de problemas</h3>
 
 - 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
