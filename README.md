@@ -12,7 +12,7 @@
 
 - <h2 align="left">Xadrex em Java</h2>
 
-Jogo de xadrez que recebe, valida e faz jogadas a partir de movimentos informados pelo terminal. Confira o [projeto](https://github.com/gus-campos/chess/).
+Jogo de xadrez que recebe, valida e faz jogadas a partir de movimentos informados pelo terminal, incluindo movimento especiais como o roque (ou castling), ou o en pasant. Confira o [projeto](https://github.com/gus-campos/chess/).
 
 - <h2 align="left">Caça-Palavras Interativo em C#</h2>
 
