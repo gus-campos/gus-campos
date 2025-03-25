@@ -10,6 +10,10 @@
 
 <h1 align="left">Veja meus projetos publicados:</h3>
 
+- <h2 align="left">Automated Playtest System - ATPS</h2>
+
+Sistema implementado por mim em TypeScript para meu TCC em Ciências Exatas, que conta com um agente inteligente baseado em Monte Carlo Search Tree (MCTS) e um sistema responsável por simular as partidas e coletar dados, ainda conta com o protótipo de 5 jogos: Damas, Gobblet Gobblers, Boop, Connect 4 e Jogo da Velha. Confira o [projeto](https://github.com/gus-campos/atps-engine/).
+
 - <h2 align="left">Xadrex em Java</h2>
 
 Jogo de xadrez que recebe, valida e faz jogadas a partir de movimentos informados pelo terminal, incluindo movimento especiais como o roque (ou castling), ou o en pasant. Confira o [projeto](https://github.com/gus-campos/chess/).
