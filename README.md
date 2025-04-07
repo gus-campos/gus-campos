@@ -2,7 +2,7 @@
 <h3 align="center">E eu adoro trabalhar com solução de problemas</h3>
 
 - 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
-- 🌱 Estudo e pratico **Desenvolvimento Backend** há dois anos
+- 🌱 Estudo e pratico **Desenvolvimento Backend** há mais de dois anos
 - 🖥️ Tenho proficiência nas linguagens **C#**, **Java**, **TypeScript** e **Python**
 - 💻 Tenho experiência com C++, HTML, CSS e React
 - 📊 Tenho base também em análise e vizualização de **Dados**, que me auxiliam na resolução de problemas
@@ -30,13 +30,13 @@ Jogo de tabuleiro implementado utilizando JS e a biblioteca boardgames.io, e com
 
 Um jogo básico de guerra de tanques com três níveis, feito em JavaScript utilizando a biblioteca gráfica THREE.js, que fiz sozinho como trabalho da disciplina de Computação Gráfica na UFJF. Acesse o [repositório](https://github.com/gus-campos/tanks-war.github.io), e jogue em mobile ou PC (com WASD + SPACE) pela sua [github-page](https://gus-campos.github.io/tanks-war.github.io/src/index.html). 
 
+- <h2 align="left">Biblioteca: Dopagens </h4>
+
+Meu primeiro projeto grande em programação: escrevi em Python ao longo de mais de 1 ano, e usei extensamente na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível na descrição do projeto. Acesse o [projeto](https://github.com/gus-campos/dopagens).
+
 - <h2 align="left">Jogo em Unity com C#: Survive Between Stars </h4>
 
 Jogo space shooter que idelizei, e criei em **C#/Unity**, com música de minha autoria, e assets adapatados por mim. Conheça o jogo na [página da Itch.io](https://gus-campos.itch.io/survive-between-stars) onde é possível jogá-lo direto do navegador no PC, e acesse o [repositório](https://github.com/gus-campos/Survive-Between-Stars) para conhecer a implementação e descobrir mais detalhes em seu README.
-
-- <h2 align="left">Biblioteca: Dopagens </h4>
-
-Programas em **Python** que escrevi ao longo de mais de 1 ano, e usei extensamente na minha pesquisa de Iniciação Científica (CNPq) para gerar estruturas moleculares, disparar otimizações, colher dados, calcular propiedades e gerar visualizações, além de automatizar diversos outros processos. Documentação disponível na descrição do projeto. Acesse o [projeto](https://github.com/gus-campos/dopagens).
 
 - <h2 align="left">Simulador de currículos da minha graduação </h4>
 
