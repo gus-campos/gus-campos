@@ -10,6 +10,10 @@
 
 <h1 align="left">Veja meus projetos publicados:</h3>
 
+- <h2 align="left"> Reagen - Controle Fácil de Reagentes Químicos</h2>
+
+Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes químicos, permitindo adicionar, buscar, filtrar, dar saída, visualizar resumos e etc. Usa uma validação rica dos dados, garantindo que diferentes laboratórios, substâncias e tamanhos sempre serão identificados de forma inequívoca.
+
 - <h2 align="left">Automated Playtest System - ATPS</h2>
 
 Sistema implementado por mim em TypeScript para meu TCC em Ciências Exatas, que conta com um agente inteligente baseado em Monte Carlo Search Tree (MCTS), um sistema responsável por simular as partidas e coletar dados, e os protótipo de 5 jogos que foram massivamente simulados: Damas, Jogo da Velha, Gobblet Gobblers, Boop e Connect 4. Confira o [respositório](https://github.com/gus-campos/atps-engine/), e o meu [trabalho completo](https://tinyurl.com/tcc-gustavo-campos).
