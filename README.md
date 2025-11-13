@@ -2,9 +2,9 @@
 <h3 align="center">E eu adoro trabalhar com solução de problemas</h3>
 
 - 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
-- 🌱 Estudo e pratico **Desenvolvimento Backend** há mais de dois anos
+- 🌱 Estudo e pratico **Desenvolvimento Backend** há mais de três anos
 - 🖥️ Tenho proficiência nas linguagens **C#**, **Java**, **TypeScript** e **Python**
-- 💻 Tenho experiência com C++, HTML, CSS e React
+- 💻 Tenho experiência com HTML, CSS, React e também C++
 - 📊 Tenho base também em análise e vizualização de **Dados**, que me auxiliam na resolução de problemas
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
