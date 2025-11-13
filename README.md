@@ -16,7 +16,7 @@ Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes qu√
 
 - <h2 align="left">Desafios Web - Frontend Mentor</h2>
 
-Desafios do site Frontend Mentos para estudo de HTML e CSS.
+Desafios da plataforma Frontend Mentor para fortalecer fundamentos em CSS e HTML.
 
 * [Clipboard Landing Page](https://github.com/gus-campos/web-challenge-clipboard)
 * [Huddle Landing Page](https://github.com/gus-campos/web-challenge-clipboard)
