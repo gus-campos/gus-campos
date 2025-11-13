@@ -19,7 +19,7 @@ Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes qu√
 Desafios da plataforma Frontend Mentor para fortalecer fundamentos em CSS e HTML.
 
 * [Clipboard Landing Page](https://github.com/gus-campos/web-challenge-clipboard)
-* [Huddle Landing Page](https://github.com/gus-campos/web-challenge-clipboard)
+* [Huddle Landing Page](https://github.com/gus-campos/web-challenge-huddle)
 
 
 - <h2 align="left">Automated Playtest System - ATPS</h2>
