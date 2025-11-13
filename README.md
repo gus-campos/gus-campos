@@ -14,17 +14,16 @@
 
 Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes químicos, permitindo adicionar, buscar, filtrar, dar saída, visualizar resumos e etc. Usa uma validação rica dos dados, garantindo que diferentes laboratórios, substâncias e tamanhos sempre serão identificados de forma inequívoca. Pode ser testado através do seguinte [deploy](https://reagen-xi.vercel.app/estoque).
 
+- <h2 align="left">Automated Playtest System - ATPS</h2>
+
+Sistema implementado por mim em TypeScript para meu TCC em Ciências Exatas, que conta com um agente inteligente baseado em Monte Carlo Search Tree (MCTS), um sistema responsável por simular as partidas e coletar dados, e os protótipo de 5 jogos que foram massivamente simulados: Damas, Jogo da Velha, Gobblet Gobblers, Boop e Connect 4. Confira o [respositório](https://github.com/gus-campos/atps-engine/), e o meu [trabalho completo](https://tinyurl.com/tcc-gustavo-campos).
+
 - <h2 align="left">Desafios Web - Frontend Mentor</h2>
 
 Desafios da plataforma Frontend Mentor para fortalecer fundamentos em CSS e HTML.
 
 * [Clipboard Landing Page](https://github.com/gus-campos/web-challenge-clipboard)
 * [Huddle Landing Page](https://github.com/gus-campos/web-challenge-huddle)
-
-
-- <h2 align="left">Automated Playtest System - ATPS</h2>
-
-Sistema implementado por mim em TypeScript para meu TCC em Ciências Exatas, que conta com um agente inteligente baseado em Monte Carlo Search Tree (MCTS), um sistema responsável por simular as partidas e coletar dados, e os protótipo de 5 jogos que foram massivamente simulados: Damas, Jogo da Velha, Gobblet Gobblers, Boop e Connect 4. Confira o [respositório](https://github.com/gus-campos/atps-engine/), e o meu [trabalho completo](https://tinyurl.com/tcc-gustavo-campos).
 
 - <h2 align="left">Xadrex em Java</h2>
 
