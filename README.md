@@ -22,6 +22,7 @@ Sistema implementado por mim em TypeScript para meu TCC em Ciências Exatas, que
 
 Desafios da plataforma Frontend Mentor para fortalecer fundamentos em CSS e HTML.
 
+* [Chat App Illustration](https://github.com/gus-campos/web-challenge-chat-app/)
 * [Clipboard Landing Page](https://github.com/gus-campos/web-challenge-clipboard)
 * [Huddle Landing Page](https://github.com/gus-campos/web-challenge-huddle)
 
