@@ -1,11 +1,10 @@
 <h1 align="center">Olá, eu sou o Gustavo!</h1>
 <h3 align="center">E eu adoro trabalhar com solução de problemas</h3>
 
-- 📚 Graduando em Ciências Exatas pela UFJF, com foco em **Ciência da Computação**
-- 🌱 Estudo e pratico **Desenvolvimento Backend** há mais de três anos
-- 🖥️ Tenho proficiência nas linguagens **C#**, **Java**, **TypeScript** e **Python**
-- 💻 Tenho experiência com HTML, CSS, React e também C++
-- 📊 Tenho base também em análise e vizualização de **Dados**, que me auxiliam na resolução de problemas
+- 📚 Graduado em Ciências Exatas pela UFJF, e graduando em **Ciência da Computação** pela mesma universidade.
+- 🌱 Estudo e pratico **Desenvolvimento Fullstack** há mais de três anos
+- 🖥️ Tenho proficiência nas linguagens: **C#**, **TypeScript** e **Python**
+- 💻 Tenho experiência com a stack frontend: **React**, **Next**, **Tailwind**, **Mantine**.
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
 <h1 align="left">Veja meus projetos publicados:</h3>
@@ -33,10 +32,6 @@ Jogo de xadrez que recebe, valida e faz jogadas a partir de movimentos informado
 <h2 align="left">Caça-Palavras Interativo em C#</h2>
 
 Aplicativo de console em C# que gera caça-palavras de dimensões e quantidades de palavras arbitrárias, usando orientação a objetos e permite jogar a partir de entradas no teclado. As palavras podem ser horizontais, verticais ou diagonais, em ordem direta ou inversa. Diversos conceito de programação são aplicados aqui, de acordo com a descrição do [projeto](https://github.com/gus-campos/word-search/), junto de diagrama de classes que descreve a estrutura do programa.
-
-<h2 align="left">Clone do jogo de tabuleiro Nhac Nhac™ em JS e React </h4>
-
-Jogo de tabuleiro implementado utilizando JS e a biblioteca boardgames.io, e com React para o front-end. Após ver as instruções na página do [projeto](https://github.com/gus-campos/boardgames), você pode jogá-lo neste [link](https://gus-campos.github.io/nhac-nhac/).
 
 <h2 align="left">Jogo 3D em JavaScript: Tanks War </h4>
 
