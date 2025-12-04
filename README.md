@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gustavo!</h1>
 <h3 align="center">E eu adoro trabalhar com solução de problemas</h3>
 
-- 📚 Graduado em Ciências Exatas pela UFJF, e graduando em **Ciência da Computação** pela mesma universidade.
+- 📚 Formado em Ciências Exatas pela UFJF, e graduando em **Ciência da Computação** pela mesma universidade.
 - 🌱 Estudo e pratico **Desenvolvimento Fullstack** há mais de três anos
 - 🖥️ Tenho proficiência nas linguagens: **C#**, **TypeScript** e **Python**
 - 💻 Tenho experiência com a stack frontend: **React**, **Next**, **Tailwind**, **Mantine**.
