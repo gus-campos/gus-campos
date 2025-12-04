@@ -4,7 +4,7 @@
 - 📚 Formado em Ciências Exatas pela UFJF, e graduando em **Ciência da Computação** pela mesma universidade.
 - 🌱 Estudo e pratico **Desenvolvimento Fullstack** há mais de três anos
 - 🖥️ Tenho proficiência nas linguagens: **C#**, **TypeScript**, **Python**
-- 💻 Tenho experiência com a stack frontend: **React**, **Next**, **Tailwind**, **Mantine**, **Firebase**
+- 💻 Tenho experiência com a stack frontend: **React**, **Next**, **Tailwind**, **Firebase**, **Mantine** 
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
 <h1 align="left">Veja meus projetos publicados:</h3>
