@@ -3,8 +3,8 @@
 
 - 📚 Formado em Ciências Exatas pela UFJF, e graduando em **Ciência da Computação** pela mesma universidade.
 - 🌱 Estudo e pratico **Desenvolvimento Fullstack** há mais de três anos
-- 🖥️ Tenho foco nas linguagens: **C#** e **TypeScript**
-- 💻 E nos frameworks: **ASP.NET Core** e **Vue**
+- 🖥️ Tenho foco nas linguagens: **TypeScript** e **C#** 
+- 💻 E nos frameworks: **Vue** e **ASP.NET Core**
 - 📫 Fale comigo através do e-mail **gus.campos042@gmail.com**
 
 <h1 align="left">Veja meus projetos publicados:</h3>
