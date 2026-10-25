@@ -13,7 +13,11 @@
 
 Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes químicos, permitindo adicionar, buscar, filtrar, dar saída, visualizar resumos e etc. Usa uma validação rica dos dados, garantindo que diferentes laboratórios, substâncias e tamanhos sempre serão identificados de forma inequívoca. O primeiro frontend pode ser testado através do seguinte [deploy](https://reagen-xi.vercel.app/estoque).
 
-Sendo um projeto de estudo existem duas versões do frontend, um [em React](https://github.com/gus-campos/reagen), e outro em construção [em Vue](https://github.com/gus-campos/reagen-reloaded). Além do [backend](https://github.com/gus-campos/reagen-back) em C# com ASP.NET Core.
+Sendo um projeto de estudo existem duas versões do frontend:
+- [em React](https://github.com/gus-campos/reagen)
+- Outro em construção [em Vue](https://github.com/gus-campos/reagen-reloaded).
+Além do backend
+- [em C# com ASP.NET Core](https://github.com/gus-campos/reagen-back).
 
 <h2 align="left">Automated Playtest System - ATPS</h2>
 
