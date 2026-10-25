@@ -15,8 +15,8 @@ Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes qu�
 
 Sendo um projeto de estudo existem duas versões do frontend:
 - [em React](https://github.com/gus-campos/reagen)
-- Outro em construção [em Vue](https://github.com/gus-campos/reagen-reloaded).
-Além do backend
+- [em Vue](https://github.com/gus-campos/reagen-reloaded)
+Além do backend:
 - [em C# com ASP.NET Core](https://github.com/gus-campos/reagen-back).
 
 <h2 align="left">Automated Playtest System - ATPS</h2>
