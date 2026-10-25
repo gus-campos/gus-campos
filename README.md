@@ -16,6 +16,7 @@ Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes qu�
 Sendo um projeto de estudo existem duas versões do frontend:
 - [em React](https://github.com/gus-campos/reagen)
 - [em Vue](https://github.com/gus-campos/reagen-reloaded)
+
 Além do backend:
 - [em C# com ASP.NET Core](https://github.com/gus-campos/reagen-back).
 
