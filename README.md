@@ -11,7 +11,7 @@
 
 <h2 align="left"> Reagen - Controle Fácil de Reagentes Químicos</h2>
 
-Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes químicos, permitindo adicionar, buscar, filtrar, dar saída, visualizar resumos e etc. Usa uma validação rica dos dados, garantindo que diferentes laboratórios, substâncias e tamanhos sempre serão identificados de forma inequívoca. O primeiro frontend pode ser testado através do seguinte [deploy](https://reagen-xi.vercel.app/estoque).
+Software em desenvolvimento com o objetivo de gerenciar estoque de reagentes químicos, permitindo adicionar, buscar, filtrar, dar saída, visualizar resumos e etc. Usa uma validação rica dos dados, garantindo que diferentes laboratórios, substâncias e tamanhos sempre serão identificados de forma inequívoca. O primeiro frontend pode ser testado através do seguinte [deploy](https://reagen-xi.vercel.app/estoque). Teste com Email: "teste@email.com" Senha: "senhaforte".
 
 Sendo um projeto de estudo existem duas versões do frontend:
 - [em React](https://github.com/gus-campos/reagen)
